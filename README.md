@@ -60,9 +60,9 @@ I love exploring new tools and technologies, and currently focused on web develo
 
 ## 🌟 Featured Projects
 
-- 🚀 **[Ecommerce App](https://github.com/yashpatel-it/ecommerce-React-DjangoRestAPI)** — Full-stack shopping website with admin panel and cart
-- 🛠️ **[Price Tracker](https://github.com/yashpatel-it/PriceTracker)** — Python-based web scraper to monitor eCommerce product prices
-- 🌐 **[Portfolio Website](https://github.com/yashpatel-it/portfolio-yash)** — My portfolio website built with modern frontend tools
+- 🚀 **[Petcare system](https://github.com/yashpatel-it/petlover-website)** — Full-stack petcarying website with admin panel and cart
+- 🛠️ **[Event Management system](https://github.com/yashpatel-it/PriceTracker)** — Full-stack petcarying website with admin panel and cart
+- 🌐 **[Portfolio Website](https://github.com/yashpatel-it/personal-portfollio)** — My portfolio website built with modern frontend tools
 
 ---
 
