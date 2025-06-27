@@ -86,3 +86,15 @@ I love exploring new tools and technologies, and currently focused on web develo
   🔥 Let’s build something amazing together!
 </p>
 
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashpatel-it&left_color=black&right_color=blue" alt="Profile Visitor Counter" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/github/stars/yashpatel-it?style=social" alt="GitHub Stars" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/github/followers/yashpatel-it?style=social" alt="GitHub Followers" />
+</p>
+
+
