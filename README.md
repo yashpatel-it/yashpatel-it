@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 Diploma IT Graduate | 💻 Full-Stack Developer | 🌱 Always Learning  
+  🚀 B.Tech IT Student | 💻 Full-Stack Developer | 🌱 Always Learning  
 </p>
 
 <p align="center">
